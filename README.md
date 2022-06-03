@@ -1,1 +1,2 @@
-# ToDoList-ReactNative
+npm install
+npm start
